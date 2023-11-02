@@ -1,2 +1,2 @@
 # IN949013
-watch training progress update here: http://localhost:6007/#timeseries
+watch training progress update here: [http://localhost:6007/#timeseries](http://localhost:6007/#timeseries)http://localhost:6007/#timeseries
